@@ -42,11 +42,11 @@
   <a href="https://twitter.com/_MiyuruD">
   <img src='https://simpleicons.vercel.app/twitter/fff' alt='twitter' height='50'></a>&emsp;&emsp;
   <a href="https://discordapp.com/users/528881134008926228">
-  <img src='https://simpleicons.vercel.app/discord/fff' alt='discord' height='50'></a>
+  <img src='https://simpleicons.vercel.app/discord/fff' alt='discord' height='50'></a>&emsp;&emsp;
   <a href="https://t.me/miyurudassanayake">
   <img src='https://simpleicons.vercel.app/telegram/fff' alt='telegram' height='50'></a>&emsp;&emsp;
   <a href="https://stackoverflow.com/users/16929412/miyuru">
-  <img src='https://simpleicons.vercel.app/stackoverflow/fff' alt='stackoverflow' height='50'></a>&emsp;&emsp;
+  <img src='https://simpleicons.vercel.app/stackoverflow/fff' alt='stackoverflow' height='50'></a>
 </p>
 
 <br>
