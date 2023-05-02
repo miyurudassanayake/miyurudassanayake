@@ -35,7 +35,7 @@
 <p align="center">
   <a href="https://github.com/miyurudassanayake">
   <img src='https://simpleicons.vercel.app/github/fff' alt='github' height='50'><a>&emsp;&emsp;
-  <a href="https://www.facebook.com/miyurudassanayke1">
+  <a href="https://www.facebook.com/miyurudassanayake1">
   <img src='https://simpleicons.vercel.app/facebook/fff' alt='facebook' height='50'></a>&emsp;&emsp;
   <a href="https://www.instagram.com/_.miyuru._/">
   <img src='https://simpleicons.vercel.app/instagram/fff' alt='instagram' height='50'></a>&emsp;&emsp;
