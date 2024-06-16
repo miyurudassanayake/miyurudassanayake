@@ -3,21 +3,13 @@
 <br>
 <img src="https://raw.githubusercontent.com/miyurudassanayake/miyurudassanayake/main/static/banner.png" width="100%">
 
-- 🔭 I’m currently working on ....
-
-- 🌱 I’m currently learning linux embedded systems.
-
-- 👯 I’m looking to collaborate on linux iot devices.
-
-- 🤔 I’m looking for help with pcb designing.
-
 - 💬 Ask me about: :v
 
 - 📫 How to reach me:
   <br>&emsp;&emsp;Email&emsp;:&emsp;miyurudassanayakekandy@gmail.com
   <br>&emsp;&emsp;Other&emsp;:&emsp;[Find Me Here](#find-me-here)
 
-- 😄 Pronouns: male/masculine.
+- 😄 Pronouns: he/him/masculine.
 
 - ⚡ Fun fact: Computers are fast; programmers keep it slow.
 
@@ -35,11 +27,11 @@
 <p align="center">
   <a href="https://github.com/miyurudassanayake">
   <img src='https://simpleicons.vercel.app/github/fff' alt='github' height='50'><a>&emsp;&emsp;
-  <a href="https://www.facebook.com/miyurudassanayake1">
+  <a href="https://web.facebook.com/profile.php?id=61559124752553">
   <img src='https://simpleicons.vercel.app/facebook/fff' alt='facebook' height='50'></a>&emsp;&emsp;
-  <a href="https://www.instagram.com/_.miyuru._/">
+  <a href="https://www.instagram.com/miyuru_d_/">
   <img src='https://simpleicons.vercel.app/instagram/fff' alt='instagram' height='50'></a>&emsp;&emsp;
-  <a href="https://twitter.com/_MiyuruD">
+  <a href="https://twitter.com/_miyuru_d_">
   <img src='https://simpleicons.vercel.app/twitter/fff' alt='twitter' height='50'></a>&emsp;&emsp;
   <a href="https://discordapp.com/users/528881134008926228">
   <img src='https://simpleicons.vercel.app/discord/fff' alt='discord' height='50'></a>&emsp;&emsp;
