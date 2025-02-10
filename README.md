@@ -3,8 +3,6 @@
 <br>
 <img src="https://raw.githubusercontent.com/miyurudassanayake/miyurudassanayake/main/static/banner.png" width="100%">
 
-- 💬 Ask me about: :v
-
 - 📫 How to reach me:
   <br>&emsp;&emsp;Email&emsp;:&emsp;miyurudassanayakekandy@gmail.com
   <br>&emsp;&emsp;Other&emsp;:&emsp;[Find Me Here](#find-me-here)
@@ -32,7 +30,7 @@
   <a href="https://www.instagram.com/miyuru_d_/">
   <img src='https://simpleicons.vercel.app/instagram/fff' alt='instagram' height='50'></a>&emsp;&emsp;
   <a href="https://twitter.com/_miyuru_d_">
-  <img src='https://simpleicons.vercel.app/twitter/fff' alt='twitter' height='50'></a>&emsp;&emsp;
+  <img src='https://simpleicons.vercel.app/x/fff' alt='x' height='50'></a>&emsp;&emsp;
   <a href="https://discordapp.com/users/528881134008926228">
   <img src='https://simpleicons.vercel.app/discord/fff' alt='discord' height='50'></a>&emsp;&emsp;
   <a href="https://t.me/miyurudassanayake">
